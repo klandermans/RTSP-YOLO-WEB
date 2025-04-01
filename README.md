@@ -1,4 +1,4 @@
-# Multi-Camera YOLOv8 Livestream with Keypoints to Website
+# Multi-Camera YOLOv8 Livestream with Keypoints to browser
 
 This demo was developed as part of the **Next Level Animal Science** knowledge-based program at Wageningen University & Research. The project aims to study dairy cow behavior using real-time video analysis with keypoints. While the YOLOv8-based tracking model was trained by research collaborators, this application showcases how to connect multiple IP cameras, overlay keypoint visualizations, and stream the output directly to a browser — even from within a protected network.
 
