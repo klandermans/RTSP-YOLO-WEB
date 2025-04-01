@@ -54,7 +54,7 @@ pip install ultralytics opencv-python numpy flask
 ## Running
 
 ```bash
-python multi_camera_stream.py
+python app.py
 ```
 
 Then open your browser at: [http://localhost:9999](http://localhost:9999)
