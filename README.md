@@ -36,7 +36,7 @@ CAMERA_URLS = {
 > Do **not** commit real passwords or internal IP addresses to version control.
 > Use environment variables or a config file excluded via `.gitignore`.
 
-## ⚙️ Requirements
+## Requirements
 
 - Python 3.8+
 - [Ultralytics YOLOv8](https://docs.ultralytics.com/)
